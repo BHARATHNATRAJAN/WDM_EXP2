@@ -42,7 +42,7 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
-
+![buy dataset](https://github.com/user-attachments/assets/84117882-272a-465b-83b1-ada9a6b25910)
 
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
@@ -53,5 +53,8 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+![buy overview](https://github.com/user-attachments/assets/a90c02ab-7876-4d6a-8dd9-25cc253826c8)
+![buy output](https://github.com/user-attachments/assets/f278132c-3223-442e-9c64-283a0b1fc142)
 
 ### RESULT: 
+Thus the code was errorless and runed successfully
